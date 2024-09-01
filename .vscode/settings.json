@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/pubspec.json": "file:///e%3A/fltter/first/flutter_catalog/pubspec.yaml"
+    },
+    "java.compile.nullAnalysis.mode": "automatic"
+}
