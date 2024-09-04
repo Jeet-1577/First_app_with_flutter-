@@ -6,10 +6,10 @@ import 'package:flutter_catalog/widgets/themes.dart';
 // import 'package:google_fonts/google_fonts.dart';
 
 void main() {
-  runApp(myapp());
+  runApp(MyApp());
 }
 
-class myapp extends StatelessWidget {
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
