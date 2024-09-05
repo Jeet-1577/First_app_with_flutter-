@@ -1,0 +1,84 @@
+{
+    "products":[
+        {
+        "id": 1,
+        "name": "iphone 15 pro",
+        "desc:": "iphone 15th generation",
+        "price": 999,
+        "color": "#3350a",
+        "image": "assets/images/iphon.jpeg"
+        },
+        {
+        "id": 2,
+        "name": "google pixal 6",
+        "desc:": "iphone 15th generation",
+        "price": 999,
+        "color": "#3350a",
+        "image": "assets/images/iphon.jpeg"
+        },
+        {
+        "id": 3,
+        "name": "iphone 15 pro",
+        "desc:": "iphone 15th generation",
+        "price": 999,
+        "color": "#3350a",
+        "image": "assets/images/iphon.jpeg"
+        },
+        {
+        "id": 4,
+        "name": "iphone 15 pro",
+        "desc:": "iphone 15th generation",
+        "price": 999,
+        "color": "#3350a",
+        "image": "assets/images/iphon.jpeg"
+        },
+        {
+        "id": 5,
+        "name": "iphone 15 pro",
+        "desc:": "iphone 15th generation",
+        "price": 999,
+        "color": "#3350a",
+        "image": "assets/images/iphon.jpeg"
+        },
+        {
+        "id": 6,
+        "name": "iphone 15 pro",
+        "desc:": "iphone 15th generation",
+        "price": 999,
+        "color": "#3350a",
+        "image": "assets/images/iphon.jpeg"
+        },
+        {
+        "id": 7,
+        "name": "iphone 15 pro",
+        "desc:": "iphone 15th generation",
+        "price": 999,
+        "color": "#3350a",
+        "image": "assets/images/iphon.jpeg"
+        },
+        {
+        "id": 8,
+        "name": "iphone 15 pro",
+        "desc:": "iphone 15th generation",
+        "price": 999,
+        "color": "#3350a",
+        "image": "assets/images/iphon.jpeg"
+        },
+        {    
+        "id": 9,
+        "name": "iphone 15 pro",
+        "desc:": "iphone 15th generation",
+        "price": 999,
+        "color": "#3350a",
+        "image": "assets/images/iphon.jpeg"
+        },
+        {
+        "id": 10,
+        "name": "iphone 15 pro",
+        "desc:": "iphone 15th generation",
+        "price": 999,
+        "color": "#3350a",
+        "image": "assets/images/iphon.jpeg"
+        }
+    ]
+}
