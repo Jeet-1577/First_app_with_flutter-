@@ -1,84 +1,85 @@
-{
-    "products":[
-        {
-        "id": 1,
-        "name": "iphone 15 pro",
-        "desc:": "iphone 15th generation",
-        "price": 999,
-        "color": "#3350a",
-        "image": "assets/images/iphon.jpeg"
-        },
-        {
-        "id": 2,
-        "name": "google pixal 6",
-        "desc:": "iphone 15th generation",
-        "price": 999,
-        "color": "#3350a",
-        "image": "assets/images/iphon.jpeg"
-        },
-        {
-        "id": 3,
-        "name": "iphone 15 pro",
-        "desc:": "iphone 15th generation",
-        "price": 999,
-        "color": "#3350a",
-        "image": "assets/images/iphon.jpeg"
-        },
-        {
-        "id": 4,
-        "name": "iphone 15 pro",
-        "desc:": "iphone 15th generation",
-        "price": 999,
-        "color": "#3350a",
-        "image": "assets/images/iphon.jpeg"
-        },
-        {
-        "id": 5,
-        "name": "iphone 15 pro",
-        "desc:": "iphone 15th generation",
-        "price": 999,
-        "color": "#3350a",
-        "image": "assets/images/iphon.jpeg"
-        },
-        {
-        "id": 6,
-        "name": "iphone 15 pro",
-        "desc:": "iphone 15th generation",
-        "price": 999,
-        "color": "#3350a",
-        "image": "assets/images/iphon.jpeg"
-        },
-        {
-        "id": 7,
-        "name": "iphone 15 pro",
-        "desc:": "iphone 15th generation",
-        "price": 999,
-        "color": "#3350a",
-        "image": "assets/images/iphon.jpeg"
-        },
-        {
-        "id": 8,
-        "name": "iphone 15 pro",
-        "desc:": "iphone 15th generation",
-        "price": 999,
-        "color": "#3350a",
-        "image": "assets/images/iphon.jpeg"
-        },
-        {    
-        "id": 9,
-        "name": "iphone 15 pro",
-        "desc:": "iphone 15th generation",
-        "price": 999,
-        "color": "#3350a",
-        "image": "assets/images/iphon.jpeg"
-        },
-        {
-        "id": 10,
-        "name": "iphone 15 pro",
-        "desc:": "iphone 15th generation",
-        "price": 999,
-        "color": "#3350a",
-        "image": "assets/images/iphon.jpeg"
+
+    {
+        "products":[
+            {
+            "id": 1,
+            "name": "iphone 15 pro",
+            "desc:": "iphone 15th generation and security purpose",
+            "price": 1500,
+            "color": "#3350a",
+            "image": "assets/images/image1.jpeg"
+            },
+            {
+            "id": 2,
+            "name": "iphone 16",
+            "desc:": "iphone 16th generation and more secure avilable for more colour",
+            "price": 700,
+            "color": "#3350a",
+            "image": "assets/images/image2.jpeg"
+            },
+            {
+            "id": 3,
+            "name": "apple macbook pro",
+            "desc:": "macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels",
+            "price": 3289,
+            "color": "#3350a",
+            "image": "assets/images/image3.jpeg"
+            },
+            {
+            "id": 4,
+            "name": "Samsung s24 ultra",
+            "desc:": "the most megapixels on a smartphone and AI processing,",
+            "price": 1399,
+            "color": "#3350a",
+            "image": "assets/images/image4.jpeg"
+            },
+            {
+            "id": 5,
+            "name": "oneplus open 5g dual sim foldable smartphone",
+            "desc:": "Dual-SIM, Emerald Dusk, US Factory Unlocked Android Smartphone, 4805 mAh Battery, 67W Fast Charging, Hasselblad Camera, 120Hz Fluid Display.",
+            "price":1499,
+            "color": "#3350a",
+            "image": "assets/images/image5.jpeg"
+            },
+            {
+            "id": 6,
+            "name": "Samsung Galaxy Z Fold6",
+            "desc:": "more vibrant display compared to its predecessor,",
+            "price": 1649,
+            "color": "#3350a",
+            "image": "assets/images/image6.jpeg"
+            },
+            {
+            "id": 7,
+            "name": "HP ZBook Power 39.6 cm (15.6) G10 Mobile Workstation PC",
+            "desc:": " 39.6 cm (15.6) G10 Mobile Workstation PC",
+            "price": 2389,
+            "color": "#3350a",
+            "image": "assets/images/image7.jpeg"
+            },
+            {
+            "id": 8,
+            "name": "ASUS ROG Zephyrus Duo 16 Gaming &amp",
+            "desc:": "Business Laptop AMD Ryzen 9 6900HX 8-Core, 64GB DDR5 4800MHz RAM, 2x8TB PCIe SSD RAID 0 16TB, GeForce RTX 3080 Ti, 16.0&#34; 165Hz Win 11 Pro with D6000 Dock",
+            "price": 10518,
+            "color": "#3350a",
+            "image": "assets/images/image8.jpeg"
+            },
+            {    
+            "id": 9,
+            "name": "Dell Alienware m18 R1 Gaming Laptop,",
+            "desc:": "Intel Core i9-13980HX Processor/64GB/1TB SSD/18.0",
+            "price": 4511,
+            "color": "#3350a",
+            "image": "assets/images/image9.jpeg"
+            },
+            {
+            "id": 10,
+            "name": "Apple Watch Series 9",
+            "desc:": "Retina display. Up to 1000 nits PS. Available cellular. connectivity 9 Supports Apple Watch. ...",
+            "price": 759,
+            "color": "#3350a",
+            "image": "assets/images/image10.jpeg"
         }
     ]
 }
